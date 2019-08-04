@@ -1,16 +1,11 @@
 # flutter_text_shimmer
 
-flutter text shimmer
+flutter实现text闪烁效果
 
-## Getting Started
+## 文章地址
 
-This project is a starting point for a Flutter application.
+**[Flutter文字渐变(二)--Text闪烁效果](https://blog.xhhold.com/2019/08/04/Flutter%E6%96%87%E5%AD%97%E6%B8%90%E5%8F%98-%E4%BA%8C-Text%E9%97%AA%E7%83%81%E6%95%88%E6%9E%9C/)**
 
-A few resources to get you started if this is your first Flutter project:
+## 效果图
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot01](screenshots/screenshot01.gif)
