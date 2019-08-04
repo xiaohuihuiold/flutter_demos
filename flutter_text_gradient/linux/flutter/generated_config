@@ -1,0 +1,6 @@
+# Generated code do not commit.
+export FLUTTER_ROOT=/opt/flutter
+export BUILD=debug
+export TRACK_WIDGET_CREATION=true
+export FLUTTER_TARGET=/home/xhh/AndroidStudioProjects/flutter_demos/flutter_text_gradient/lib/main.dart
+export PROJECT_DIR=/home/xhh/AndroidStudioProjects/flutter_demos/flutter_text_gradient
