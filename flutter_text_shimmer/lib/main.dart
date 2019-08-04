@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Text Gradient',
+      title: 'Flutter Text Shimmer',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
